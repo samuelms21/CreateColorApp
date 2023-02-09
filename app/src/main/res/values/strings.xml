@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Create Color</string>
+    <string name="red_value">Red Value</string>
+    <string name="green_value">Green Value</string>
+    <string name="blue_value">Blue Value</string>
+    <string name="create_color_btn">Create Color</string>
+    <string name="default_textview_color">Color #xxyyzz</string>
+    <string name="nim_and_name_placeholder">Some placeholder text</string>
+</resources>
